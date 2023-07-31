@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eşref Emre</h1>
 <h3 align="center">I am a computer engineering student at Abant Izzet Baysal University. I'm trying to learn new programming languages and take engineering classes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esrefemrebayrakci&label=Profile%20views&color=0e75b6&style=flat" alt="esrefemrebayrakci" /> </p>
+
 
 <h3 align="left">Connect with me:
   
