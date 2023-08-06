@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eşref Emre</h1>
-<h3 align="center">I am a computer engineering student at Abant Izzet Baysal University. I'm trying to learn new programming languages and take engineering classes.</h3>
+<h3 align="center">I am a computer engineering student at Abant Izzet Baysal University. </h3>
 
 
 
-<h3 align="left">Connect with me:
-  
-esrefemre2020@gmail.com</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
