@@ -8,7 +8,7 @@
 
 🌐 Socials:
 
-https://www.linkedin.com/in/e%C5%9Fref-emre-bayrakc%C4%B1-0a0525286/
+<a href="https://www.linkedin.com/in/e%C5%9Fref-emre-bayrakc%C4%B1-0a0525286/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </h3>
 <p align="left">
 </p>
