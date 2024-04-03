@@ -1,20 +1,3 @@
-<style>
-    .resim-adi {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background-color: rgba(255, 255, 255, 0.7); 
-        visibility: hidden; 
-        opacity: 0; 
-        transition: visibility 0s, opacity 0.5s linear;
-    }
-    img:hover + .resim-adi {
-        visibility: visible;
-        opacity: 1;
-    }
-</style>
-
 
 
 <h1 align="center">Hi 👋, I'm Eşref Emre</h1>
