@@ -32,10 +32,6 @@
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <div>
-    <span>C</span>
-    <span>Java</span>
-  </div>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrefemrebayrakci&show_icons=true&locale=en&layout=compact" alt="esrefemrebayrakci" /></p>
