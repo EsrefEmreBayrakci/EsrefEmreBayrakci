@@ -4,11 +4,9 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        background-color: rgba(255, 255, 255, 0.7); /* Arka plan rengi ve opaklık */
-        padding: 5px 10px;
-        border-radius: 5px;
-        visibility: hidden; /* Resmin üzerine gelince görünür olacak */
-        opacity: 0; /* Animasyon için */
+        background-color: rgba(255, 255, 255, 0.7); 
+        visibility: hidden; 
+        opacity: 0; 
         transition: visibility 0s, opacity 0.5s linear;
     }
     img:hover + .resim-adi {
@@ -41,7 +39,7 @@
   </h3>
 <p align="left">   
   <div class="resim-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="300" height="200">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40">
     <div class="resim-adi">Numpy</div>
   </div>
   
