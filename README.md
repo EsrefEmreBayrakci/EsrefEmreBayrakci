@@ -3,16 +3,16 @@
 
 
 
-<h3 align="left">
+<h3>🌐 Socials:</h3>
+<div class="socials">
+    <a href="https://www.linkedin.com/in/e%C5%9Fref-emre-bayrakc%C4%B1-0a0525286/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+    </a>
+    <a href="https://esrefemrebayrakci.pages.dev" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b406bff6-9a84-4fa9-a71c-414dd19fd1c1" width="40" height="40" alt="Web">
+    </a>
+</div>
 
-🌐 Socials:
-
-<a href="https://www.linkedin.com/in/e%C5%9Fref-emre-bayrakc%C4%B1-0a0525286/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
-
-<a href="https://esrefemrebayrakci.pages.dev" target="_blank"><img  alt="web" src="https://github.com/user-attachments/assets/b406bff6-9a84-4fa9-a71c-414dd19fd1c1"  width="40" height="40" />
-
-
-</h3>
 <p align="left">
 </p>
 
@@ -43,3 +43,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrefemrebayrakci&show_icons=true&locale=en" alt="esrefemrebayrakci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrefemrebayrakci&" alt="esrefemrebayrakci" /></p>
+
+<style>
+
+  .socials {
+    display: flex;
+    gap: "15"; 
+    align-items: center;
+}
+
+</style>
