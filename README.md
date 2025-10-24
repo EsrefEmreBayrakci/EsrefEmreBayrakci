@@ -8,6 +8,10 @@
 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/e%C5%9Fref-emre-bayrakc%C4%B1-0a0525286/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
+
+<a href="https://www.esrefemrebayrakci.pages.dev" target="_blank"><img  alt="web" src="https://github.com/user-attachments/assets/b406bff6-9a84-4fa9-a71c-414dd19fd1c1"  width="40" height="40" />
+
+
 </h3>
 <p align="left">
 </p>
