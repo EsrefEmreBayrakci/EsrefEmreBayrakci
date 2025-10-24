@@ -48,7 +48,7 @@
 
   .socials {
     display: flex;
-    gap: "15"; 
+    gap: "20"; 
     align-items: center;
 }
 
