@@ -38,12 +38,12 @@
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrefemrebayrakci&show_icons=true&locale=en&layout=compact" alt="esrefemrebayrakci" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrefemrebayrakci&show_icons=true&locale=en&layout=compact" alt="esrefemrebayrakci" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrefemrebayrakci&show_icons=true&locale=en" alt="esrefemrebayrakci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrefemrebayrakci&" alt="esrefemrebayrakci" /></p>
-
+-->
 <style>
 
   .socials {
