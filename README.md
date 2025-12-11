@@ -35,12 +35,16 @@
 
 <br>
 
-<h3>📊 GitHub Statistics</h3>
+<h3>🏆 Achievements</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=esrefemrebayrakci&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="esrefemrebayrakci" />
+</a>
 
-[![Eşref Emre Stats](https://github-readme-stats.vercel.app/api?username=esrefemrebayrakci&show_icons=true&locale=en&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=esrefemrebayrakci&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=esrefemrebayrakci&theme=radical)](https://git.io/streak-stats)
+<h3>🔥 GitHub Streak</h3>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=esrefemrebayrakci&theme=radical&hide_border=true" alt="Eşref Emre Streak" />
+</a>
 
 </div>
