@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Eşref Emre
-### Game Developer 
+### Game Developer
 
 ---
 
@@ -37,22 +37,10 @@
 
 <h3>📊 GitHub Statistics</h3>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=esrefemrebayrakci&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Eşref Emre Stats" />
-</a>
-</p>
+[![Eşref Emre Stats](https://github-readme-stats.vercel.app/api?username=esrefemrebayrakci&show_icons=true&locale=en&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrefemrebayrakci&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Eşref Emre Top Langs" />
-</a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=esrefemrebayrakci&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=esrefemrebayrakci&theme=radical&hide_border=true" alt="Eşref Emre Streak" />
-</a>
-</p>
+[![Streak Stats](https://streak-stats.demolab.com?user=esrefemrebayrakci&theme=radical)](https://git.io/streak-stats)
 
 </div>
